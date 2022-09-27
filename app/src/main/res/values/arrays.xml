@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="arr_home_image">
+
+        <item>img_blood_alcohol_content</item>
+        <item>img_blood_pressure</item>
+        <item>img_blood_sugar</item>
+        <item>img_blood_volume</item>
+        <item>img_body_adiposity_index</item>
+        <item>img_body_fat</item>
+        <item>img_body_frame_size</item>
+        <item>img_body_mass</item>
+        <item>img_body_surface_area</item>
+        <item>img_bruce_trade_mill</item>
+        <item>img_calorie_burn</item>
+        <item>img_chest_to_hip_ratio</item>
+        <item>img_childrens_height_predictor</item>
+        <item>img_cholestrol_ratio</item>
+        <item>img_daily_calorie_intake</item>
+        <item>img_daily_water_intake</item>
+        <item>img_heart_rate</item>
+        <item>img_ideal_body_weight</item>
+        <item>img_kids_growth</item>
+        <item>img_lean_body_mass</item>
+        <item>img_menstraul_ovulation</item>
+        <item>img_pregnancy_due_date</item>
+        <item>img_resting_metabolic_rate</item>
+        <item>img_smoking_risk</item>
+        <item>img_waist_to_height_ratio</item>
+        <item>img_waist_to_hip_ratio</item>
+    </array>
+    <array name="arr_home_image1">
+        <item>img_blood_alcohol_content1</item>
+        <item>img_blood_pressure1</item>
+        <item>img_blood_sugar1</item>
+        <item>img_blood_volume1</item>
+        <item>img_body_adiposity_index1</item>
+        <item>img_body_fat1</item>
+        <item>img_body_frame_size1</item>
+        <item>img_body_mass1</item>
+        <item>img_body_surface_area1</item>
+        <item>img_bruce_trade_mill1</item>
+        <item>img_calorie_burn1</item>
+        <item>img_chest_to_hip_ratio1</item>
+        <item>img_childrens_height_predictor1</item>
+        <item>img_cholestrol_ratio1</item>
+        <item>img_daily_calorie_intake1</item>
+        <item>img_daily_water_intake1</item>
+        <item>img_heart_rate1</item>
+        <item>img_ideal_body_weight1</item>
+        <item>img_kids_growth1</item>
+        <item>img_lean_body_mass1</item>
+        <item>img_menstraul_ovulation1</item>
+        <item>img_pregnancy_due_date1</item>
+        <item>img_resting_metabolic_rate1</item>
+        <item>img_smoking_risk1</item>
+        <item>img_waist_to_height_ratio1</item>
+        <item>img_waist_to_hip_ratio1</item>
+    </array>
+    <array name="arr_home_title">
+        <item>Blood Alcohol Content</item>
+        <item>Blood Pressure</item>
+        <item>Blood Sugar</item>
+        <item>Blood Volume</item>
+        <item>Body Adiposity Index</item>
+        <item>Body Fat</item>
+        <item>Body Frame Size</item>
+        <item>Body Mass Index</item>
+        <item>Body Surface Area</item>
+        <item>Bruce Trade Mill</item>
+        <item>Calorie Burn</item>
+        <item>Chest To Hip Ratio</item>
+        <item>Childrens Height Predictor</item>
+        <item>Cholestrol Ratio</item>
+        <item>Daily Calorie Intake</item>
+        <item>Daily Water Intake</item>
+        <item>Heart Rate</item>
+        <item>Ideal Body Weight</item>
+        <item>Kids Growth</item>
+        <item>Lean Body Mass</item>
+        <item>Menstraul &amp; Ovulation</item>
+        <item>Pregnancy Due Date</item>
+        <item>Resting Metabolic Rate</item>
+        <item>Smoking Risk</item>
+        <item>Waist To Height Ratio</item>
+        <item>Waist To Hip Ratio</item>
+    </array>
+
+
+
+
+
+
+</resources>

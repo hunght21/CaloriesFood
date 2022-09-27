@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169929708020",
+    "project_id": "cal-food",
+    "storage_bucket": "cal-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169929708020:android:40d6757fa36c02173be9a1",
+        "android_client_info": {
+          "package_name": "com.example.cal_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169929708020-j6ilqomqh4po4pc1fhraf309ufltbl8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWm9dtvHnbD6eFjwtv3v6b-_Rm8QjOhno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169929708020-j6ilqomqh4po4pc1fhraf309ufltbl8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
