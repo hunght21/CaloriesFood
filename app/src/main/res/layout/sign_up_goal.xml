@@ -15,11 +15,11 @@
         <!-- Logo -->
         <ImageView
             android:id="@+id/imageViewLogo"
-            android:layout_width="wrap_content"
-            android:layout_height="72dp"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
             android:layout_gravity="center_horizontal"
             android:layout_marginBottom="24dp"
-            android:src="@mipmap/ic_launcher" />
+            android:src="@drawable/img" />
         <!-- //Logo -->
 
         <!-- Error handling -->
@@ -31,7 +31,6 @@
                 android:layout_height="match_parent" >
                 <ImageView
                     android:id="@+id/imageViewError"
-                    android:src="@mipmap/ic_launcher"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     />
@@ -63,7 +62,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/target_weight"
-                    android:textColor="@color/black"/>
+                    android:textColor="@color/black"
+                    android:layout_marginLeft="20dp"/>
 
                 <EditText
                     android:id="@+id/editTextTargetWeight"
@@ -96,7 +96,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/i_want_to"
-                    android:textColor="@color/black"/>
+                    android:textColor="@color/black"
+                    android:layout_marginLeft="20dp"/>
 
                 <Spinner
                     android:id="@+id/spinnerIWantTo"
@@ -116,7 +117,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/weekly_goal"
-                    android:textColor="@color/black"/>
+                    android:textColor="@color/black"
+                    android:layout_marginLeft="20dp"/>
 
                 <Spinner
                     android:id="@+id/spinnerWeeklyGoal"
@@ -153,6 +155,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/lets_go"
+                    android:layout_marginLeft="20dp"
                     android:background="@drawable/layout_bottom"/>
                 <TextView
                     android:id="@+id/textView15"

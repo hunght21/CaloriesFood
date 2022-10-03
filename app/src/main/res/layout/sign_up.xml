@@ -17,12 +17,11 @@
         <!-- Logo -->
         <ImageView
             android:id="@+id/imageViewLogo"
-            android:layout_width="wrap_content"
-            android:layout_height="72dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
             android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="24dp"
-            android:layout_marginTop="6dp"
-            android:src="@mipmap/ic_launcher" />
+            android:layout_marginTop="25dp"
+            android:src="@drawable/img" />
         <!-- //Logo -->
 
         <!-- Error handling -->
@@ -34,7 +33,6 @@
                 android:layout_height="match_parent" >
                 <ImageView
                     android:id="@+id/imageViewError"
-                    android:src="@mipmap/ic_launcher"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     />
@@ -42,7 +40,6 @@
                     android:id="@+id/textViewErrorMessage"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Error!"
                     android:layout_marginTop="8dp"
                     android:layout_marginLeft="8dp"
                     /><!-- @string/blank -->
@@ -66,7 +63,9 @@
                     android:id="@+id/textViewEmail"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/email" />
+                    android:text="Name"
+                    android:textSize="20sp"
+                    android:textColor="#333333"/>
 
                 <EditText
                     android:id="@+id/editTextEmail"
@@ -90,7 +89,9 @@
                     android:layout_height="wrap_content"
                     android:text="@string/date_of_birth"
                     android:layout_marginTop="4dp"
-                    android:layout_marginRight="2dp" />
+                    android:layout_marginRight="2dp"
+                    android:textSize="16sp"
+                    android:textColor="#333333"/>
 
                 <TableLayout
                     android:layout_width="match_parent"
@@ -137,7 +138,9 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/gender"
-                    android:layout_marginTop="8dp" />
+                    android:layout_marginTop="8dp"
+                    android:textSize="16sp"
+                    android:textColor="#333333"/>
 
                 <TableLayout
                     android:layout_width="match_parent"
@@ -191,7 +194,9 @@
                     android:id="@+id/textView8"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/mesurment" />
+                    android:text="@string/mesurment"
+                    android:textSize="16sp"
+                    android:textColor="#333333"/>
 
                 <Spinner
                     android:id="@+id/spinnerMesurment"
@@ -214,7 +219,9 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/height"
-                    android:layout_marginTop="12dp" />
+                    android:layout_marginTop="12dp"
+                    android:textSize="16sp"
+                    android:textColor="#333333"/>
 
                 <TableLayout
                     android:layout_width="match_parent"
@@ -260,7 +267,9 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/weight"
-                    android:layout_marginTop="12dp" />
+                    android:layout_marginTop="12dp"
+                    android:textSize="16sp"
+                    android:textColor="#333333"/>
 
                 <TableLayout
                     android:layout_width="match_parent"
@@ -298,6 +307,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/activity_level"
+                    android:textSize="16sp"
+                    android:textColor="#333333"
                     />
 
                 <Spinner
@@ -326,7 +337,8 @@
                     android:id="@+id/buttonSignUp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/sign_up" />
+                    android:text="Update"
+                    android:background="@drawable/layout_bottom"/>
                 <TextView
                     android:id="@+id/textView15"
                     android:layout_width="wrap_content"
